@@ -1,0 +1,4 @@
+za\ac\tut\dao\Product.class
+za\ac\tut\dao\OrderRepository.class
+za\ac\tut\dao\Orders.class
+za\ac\tut\rest\OrderResource.class
